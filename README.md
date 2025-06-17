@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/berlinbra-binance-mcp-badge.png)](https://mseep.ai/app/berlinbra-binance-mcp)
+
 # Binance MCP Server
 
 ## Overview
